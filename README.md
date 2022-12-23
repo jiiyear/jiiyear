@@ -1,4 +1,19 @@
-### Hi there 👋
+## 👋 Hello World!
+I'm Jinhyeon Kwon, an undergraduate student studies Computer Science!
+
+### 📍 My History
+* [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/)
+  * Undergraduate Student (2021-)
+  * [School of Computing](https://cs.kaist.ac.kr/) (2022-)
+
+
+
+
+
+
+
+
+
 
 <!--
 **jiiyear/jiiyear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
