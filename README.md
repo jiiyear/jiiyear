@@ -7,6 +7,10 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
   * [School of Computing](https://cs.kaist.ac.kr/) (2022-)
 ### 📍 Extracurricular Activities
 * Tutor of 'CS101 Introduction to Programming' in KAIST (2022 Spring, 2022 Fall)
+
+### 📍 Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=athexplorer)](https://solved.ac/athexplorer/)
+
 ### 📍 Contact
 ✉ athexplorer@kaist.ac.kr
 
