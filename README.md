@@ -10,7 +10,6 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 
 ### 📍 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=athexplorer)](https://solved.ac/athexplorer/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=athexplorer&theme=dark)
 
 ### 📍 Contact
 ✉ athexplorer@kaist.ac.kr
