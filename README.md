@@ -1,26 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=rect&color=0:e55d87,100:5fc3e4&height=30)
 
-<style>
-    .em {
-      color: #5fc3e4;
-    }
-</style>
-
-## 👋 <span class="em">Hello World!</span>
+## 👋 <span style="color: #5fc3e4;">Hello World!</span>
 
 I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 
-### <span class="em">📍 My Profile</span>
+### <span style="color: #5fc3e4;">📍 My Profile</span>
 
 - [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr/)
   - Undergraduate Student (2021-)
   - [School of Computing](https://cs.kaist.ac.kr/) (2022-)
 
-### 📍 <span class="em">Extracurricular Activities</span>
+### 📍 <span style="color: #5fc3e4;">Extracurricular Activities</span>
 
 - Tutor of 'CS101 Introduction to Programming' in KAIST (2022 Spring, 2022 Fall)
 
-### 📍 <span class="em">Problem Solving</span>
+### 📍 <span style="color: #5fc3e4;">Problem Solving</span>
 
 <a href="https://solved.ac/athexplorer/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=athexplorer" style="width:400px;"></a>
@@ -28,14 +22,14 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=athexplorer)](https://solved.ac/athexplorer/) -->
 
-### 📍 <span class="em">Github Activity</span>
+### 📍 <span style="color: #5fc3e4;">Github Activity</span>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=jinhyeonkwon&theme=blueberry&hide_border=true" style="width:400px;"/></a>
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeonkwon&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### 📍 <span class="em">Contact</span>
+### 📍 <span style="color: #5fc3e4;">Contact</span>
 
 ✉ athexplorer@kaist.ac.kr
 
