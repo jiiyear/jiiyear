@@ -14,7 +14,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 
 - Tutor of 'CS101 Introduction to Programming' in KAIST (2022 Spring, 2022 Fall)
 
-### 📍 <span style="color: #5fc3e4;">I'm learning or using...</span>
+### 📍 <span style="color: #5fc3e4;">I'm learning...</span>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black"><img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black"><img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <br>
@@ -30,16 +30,18 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=athexplorer)](https://solved.ac/athexplorer/) -->
 
-### 📍 <span style="color: #5fc3e4;">Github Activity</span>
+### 📍 <span style="color: #5fc3e4;">Coding Activity</span>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=jinhyeonkwon&theme=blueberry&hide_border=true" style="width:400px;"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=jinhyeonkwon&theme=dark&hide_border=false" style="width:49.5%;"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jinhyeonkwon&theme=dark&hide_border=false" style="width:49.5%;"/></a>
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeonkwon&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 📍 <span style="color: #5fc3e4;">Contact</span>
 
-✉ athexplorer@kaist.ac.kr
+- ✉ athexplorer@kaist.ac.kr
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=0:5fc3e4,100:e55d87&height=30)
 
