@@ -49,7 +49,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeonkwon&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### 📍 Contact
+### 📞 Contact
 
 - ✉ athexplorer@kaist.ac.kr
 
