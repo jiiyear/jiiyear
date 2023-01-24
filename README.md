@@ -32,7 +32,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 ### 🔑 Problem Solving
 
 <p>
-<a href="https://solved.ac/athexplorer/">
+<a href="https://solved.ac/profile/athexplorer/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=athexplorer"></a>
 </p>
 
