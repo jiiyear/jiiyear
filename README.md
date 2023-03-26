@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=rect&color=0:e55d87,100:5fc3e4&height=30)
-
+<br><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhyeonkwon&count_bg=%235FC3E4&title_bg=%23E55D87&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <h2>👋 Hello World!</h2>
 
 I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
@@ -67,7 +67,6 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 - ✉ athexplorer@kaist.ac.kr
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=0:5fc3e4,100:e55d87&height=30)
-
 <!--
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=FFCE42)
 
