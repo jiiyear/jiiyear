@@ -16,13 +16,6 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
   </li>
 </ul>
 
-### 🎯 Extracurricular Activities
-
-- <a href="https://kainuri.kaist.ac.kr/">KAINURI</a>, Official Student Ambassador of KAIST (2021-2022)
-- ULALA, KAIST Sports Climbing Club (2021-)
-- Executive Committee of KAIST School of Computing (2022-)
-- Tutor of 'CS101 Introduction to Programming' in KAIST (2022 Spring, 2022 Fall)
-
 ### 📚 I'm learning...
 
 <p>
