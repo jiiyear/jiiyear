@@ -11,7 +11,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
     <ul>
       <li> Undergraduate Student (2021-) </li>
       <li> <a href="https://cs.kaist.ac.kr/">School of Computing</a> (2022-) </li>
-      <li> <a href="https://sparcs.org/">SPARCS</a> Associate Member (Taking Newbie Developer Course) (2023-) </li>
+      <li> <a href="https://sparcs.org/">SPARCS</a> Developer (2023-) </li>
     </ul>
   </li>
 </ul>
