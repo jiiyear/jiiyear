@@ -3,6 +3,8 @@
 <h2>👋 Hello World!</h2>
 
 I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
+<br/>
+<a href="https://jinhyeonkwon.github.io/">Go to my website</a>
 
 ### 📍 My Profile
 
