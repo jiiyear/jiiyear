@@ -69,6 +69,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 ### 📞 Contact
 
 - ✉ athexplorer@kaist.ac.kr
+- <a href="https://www.linkedin.com/in/jh-kwon">https://www.linkedin.com/in/jh-kwon<a/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=rect&color=0:5fc3e4,100:e55d87&height=30)
 <!--
