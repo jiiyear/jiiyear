@@ -24,6 +24,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8b9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=OpenJDK&logoColor=black">
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -33,6 +34,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=black">
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
