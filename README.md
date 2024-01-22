@@ -5,6 +5,8 @@
 I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <br/>
 <a href="https://jinhyeonkwon.github.io/">Go to my website</a>
+<br/>
+<a href="https://jh-kwon.vercel.app/">Go to my blog (Posts are in Korean)</a>
 
 ### 📍 My Profile
 
@@ -13,7 +15,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
     <ul>
       <li> Undergraduate Student (2021-) </li>
       <li> <a href="https://cs.kaist.ac.kr/">School of Computing</a> (2022-) </li>
-      <li> <a href="https://sparcs.org/">SPARCS</a> Developer (2023-) </li>
+      <li> <a href="https://sparcs.org/">SPARCS</a> Developer (2023-)</li>
     </ul>
   </li>
 </ul>
