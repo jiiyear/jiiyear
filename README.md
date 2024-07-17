@@ -6,7 +6,7 @@ I'm Jinhyeon Kwon, an undergraduate student studying Computer Science!
 <br/>
 <a href="https://jinhyeonkwon.github.io/">Go to my website</a>
 <br/>
-<a href="https://jh-kwon.vercel.app/">Go to my blog (Posts are in Korean)</a>
+<a href="https://jh-kwon-blog.vercel.app/">Go to my blog (Posts are in Korean)</a>
 
 ### 📍 My Profile
 
